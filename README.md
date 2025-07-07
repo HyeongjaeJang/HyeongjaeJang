@@ -13,6 +13,7 @@ Welcome to my GitHub profile! Here's a little about me:
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
   </p>
 
 - **Frameworks & Libraries**:
