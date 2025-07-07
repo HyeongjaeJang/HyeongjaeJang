@@ -7,6 +7,12 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🌱 I’m currently learning FullStack using Python, TypeScript.
 - 📫 How to reach me: <jaylead08@gmail.com>
 
+## 📂 Projects
+
+- [GymRat](https://github.com/HyeongjaeJang/Gym_Rat)
+- [GymRat_Api](https://github.com/HyeongjaeJang/Gym_Rat_api)
+- [Stella](https://github.com/HyeongjaeJang/stella)
+
 ## 🛠️ Technologies & Tools
 
 - **Programming Languages**:
